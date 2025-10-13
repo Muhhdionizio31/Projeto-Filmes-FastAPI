@@ -37,3 +37,4 @@ def exibir():
             "avaliacao": linha[4]
         })
     return {"filmes": lista}
+
